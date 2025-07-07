@@ -9,9 +9,15 @@ describe('multiply the  number', function(){
    it('Check the second multiplication ', function(){
         assert.equal(multiply(3,3), 9)
      })
-     it('Check the third multiplication ', function(){
+   
+   it('Check the third multiplication ', function(){
         assert.equal(multiply(4,4), 16)
      })
+   
+   it('Check the third multiplication ', function(){
+        assert.equal(multiply(23,45), 23* 45)
+     })
+   
     
 
 });
