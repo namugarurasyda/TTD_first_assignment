@@ -1,3 +1,4 @@
+//Namugarura Syda and Conrad Waako 
 import {assert} from 'chai';
 //the describe block is a test suite
 describe('multiply the  number', function(){
